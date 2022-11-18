@@ -11,7 +11,6 @@ insultgenerator==1.0.3
 itsdangerous==2.1.2
 Jinja2==3.1.2
 libretranslatepy==2.1.1
-lxml @ file:///C:/Users/Aditya/Downloads/Programs/lxml-4.9.0-cp311-cp311-win_amd64.whl
 MarkupSafe==2.1.1
 ntfy==2.7.0
 oauthlib==3.2.2
